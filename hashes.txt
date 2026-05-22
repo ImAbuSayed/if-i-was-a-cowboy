@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - If I Was a Cowboy
+
+This log tracks the cryptographic history and versioning for the song **If I Was a Cowboy** (if-i-was-a-cowboy).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-23T05:11:06.500635 | `v1` | `924ac7c9a4c135823449aced1c9edcc06a67fb2473573cb378b62775bbafd11c` | `e0ce8ad177b109343dc3ae3c504a81aa7f7699464b72cfe2b7cec13c76aa3a82` | `2026-05-23_if-i-was-a-cowboy-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
