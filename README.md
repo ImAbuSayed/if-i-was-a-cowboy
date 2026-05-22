@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/if-i-was-a-cowboy/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for If I Was a Cowboy](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/if-i-was-a-cowboy/) |
+| **Get License** | [Get License For If I Was a Cowboy](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/if-i-was-a-cowboy/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> If I was a cowboy, I would ride through the dark
+> Just to find the soft rhythm that beats in your heart
+> I would trade every road and the infinite sky
+> For one more slow dance with you by my side
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
